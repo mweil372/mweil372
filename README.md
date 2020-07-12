@@ -10,9 +10,11 @@ product, which is a price-winning Inflight-Entertainment System. You can use it
 on board of several airlines' aircraft.  
 (and maybe you already have used it....)
 
+<!--
 ### More about me 
+-->
 
-### Things, I want to try out and/or learn
+### :seedling: Things, I want to try out and/or learn
 
 - [ ] learn still more about DevOps and how to apply it most efficiently for our org.unit
 - [ ] learn to play the harmonica
@@ -20,20 +22,12 @@ on board of several airlines' aircraft.
 
 
 ### 📫 How to reach me: ...
-[:email:](weil.mario@gmail.com)  
+[:email:](@weil.mario@gmail.com)  
 [LinkedIn](www.linkedin.com/in/mario-weil-7993109b)
 
+<!-- 
 ### ⚡ Fun fact: ...
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-
-
+-->
 
 <!--
 **mweil372/mweil372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
