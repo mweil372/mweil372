@@ -2,7 +2,7 @@
 
 ## Hi!
 
-Welcome to my profile.
+Welcome to my profile.  
 Let me introduce myself: I currently work for Lufthansa Systems GmbH & Co. KG.  
 I'm employed as a Product Owner.  
 All my professional dedication and passion go to our  
@@ -20,6 +20,10 @@ on board of several airlines' aircraft.
 
 
 ### 📫 How to reach me: ...
+[:email:](weil.mario@gmail.com)  
+[LinkedIn](www.linkedin.com/in/mario-weil-7993109b)
+
+### ⚡ Fun fact: ...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,7 +32,7 @@ on board of several airlines' aircraft.
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 <!--
