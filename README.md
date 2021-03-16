@@ -5,13 +5,14 @@
 Welcome to my profile.  
 Let me introduce myself: I currently work for Lufthansa Systems GmbH & Co. KG.  
 I'm employed as a ~~Product Owner~~ [Business Owner](https://www.scaledagileframework.com/business-owners/).  
-All my professional dedication and passion go to our  
-product, which is a price-winning Inflight-Entertainment System. You can use it  
-onboard several airlines' aircraft.  
-(and maybe you already have used it)
 
-I work from home for one year now and what I heavily miss is the personal contact with my colleagues and the 
-information exchange, e.g. in the coffee corner (which very often leads to new insights, additional ideas etc.)
+All my professional dedication and passion go to our product,
+which is a price-winning Inflight-Entertainment System. 
+You can use it onboard several airlines' aircraft. (and maybe you already have used it)
+
+I work from home for one year now and what I heavily miss is the personal contact
+with my colleagues and the information exchange, e.g. in the coffee corner 
+(which very often leads to new insights, additional ideas etc.)
 
 <!--
 ### More about me 
