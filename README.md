@@ -4,7 +4,7 @@
 
 Welcome to my profile.  
 Let me introduce myself: I currently work for Lufthansa Systems GmbH & Co. KG.  
-I'm employed as a Product Owner.  
+I'm employed as a ~~Product Owner~~ [Business Owner](https://www.scaledagileframework.com/business-owners/).  
 All my professional dedication and passion go to our  
 product, which is a price-winning Inflight-Entertainment System. You can use it  
 on board of several airlines' aircraft.  
@@ -16,9 +16,11 @@ on board of several airlines' aircraft.
 
 ### :seedling: Things, I want to try out and/or learn
 
-- [ ] learn still more about DevOps and how to apply it most efficiently for our org.unit
+- [ ] read "How to avoid a Climate Disaster" written by Bill Gates
+- [x] read "Empowered", written by Marty Cagan and Chris Jones
+- [x] learn still more about DevOps and how to apply it most efficiently for our org.unit
 - [ ] learn to play the harmonica
-- [ ] :mountain_bicyclist: ride the next trail....
+- [x] :mountain_bicyclist: ride the next trail....
 
 
 ### 📫 How to reach me: ...
