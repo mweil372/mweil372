@@ -7,8 +7,11 @@ Let me introduce myself: I currently work for Lufthansa Systems GmbH & Co. KG.
 I'm employed as a ~~Product Owner~~ [Business Owner](https://www.scaledagileframework.com/business-owners/).  
 All my professional dedication and passion go to our  
 product, which is a price-winning Inflight-Entertainment System. You can use it  
-on board of several airlines' aircraft.  
-(and maybe you already have used it....)
+onboard several airlines' aircraft.  
+(and maybe you already have used it)
+
+I work from home for one year now and what I heavily miss is the personal contact with my colleagues and the 
+information exchange, e.g. in the coffee corner (which very often leads to new insights, additional ideas etc.)
 
 <!--
 ### More about me 
@@ -26,10 +29,8 @@ on board of several airlines' aircraft.
 ### 📫 How to reach me: ...
 [:email:](@weil.mario@gmail.com)  
 [LinkedIn](www.linkedin.com/in/mario-weil-7993109b)
-
-<!-- 
-### ⚡ Fun fact: ...
--->
+ 
+### ⚡ Fun fact: The first tape I ever owned was "Spider Murphy Gang - Dolce Vita" (1981) (apparently, my taste in music has changed since then ;-) )
 
 <!--
 **mweil372/mweil372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
