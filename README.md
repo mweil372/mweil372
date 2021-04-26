@@ -20,7 +20,7 @@ with my colleagues and the information exchange, e.g. in the coffee corner
 
 ### :seedling: Things, I want to try out and/or learn
 
-- [ ] read "How to avoid a Climate Disaster" written by Bill Gates
+- [x] read "How to avoid a Climate Disaster" written by Bill Gates
 - [x] read "Empowered", written by Marty Cagan and Chris Jones
 - [x] learn still more about DevOps and how to apply it most efficiently for our org.unit
 - [ ] learn to play the harmonica
