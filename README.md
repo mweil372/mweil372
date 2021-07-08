@@ -20,6 +20,9 @@ with my colleagues and the information exchange, e.g. in the coffee corner
 
 ### :seedling: Things, I want to try out and/or learn
 
+- [ ] go to the near-by lake with my SUP
+- [ ] read Co-Active Coaching by Henry and Karen Kimsey-House
+- [x] read "Power to the Public" written by Tara D. McGuiness and Hanna Schank
 - [x] read "How to avoid a Climate Disaster" written by Bill Gates
 - [x] read "Empowered", written by Marty Cagan and Chris Jones
 - [x] learn still more about DevOps and how to apply it most efficiently for our org.unit
