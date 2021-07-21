@@ -17,11 +17,22 @@ with my colleagues and the information exchange, e.g. in the coffee corner
 <!--
 ### More about me 
 -->
-
+### What happened recently...
+I have participated in the LSY's internal training for "Product Ownership for advanced learners"
+which had the following items on the agenda:
+- Reflecting on your own work as a product owner.
+- User research, working with hypotheses, Lean Startup product strategy, Strategy Canvas, Wardley Mapping.
+- Filling the Product Backlog: Impact Mapping, Roadmap Planning, impact-oriented roadmaps.
+- Advanced release planning with statistical methods, Lean Forecasting.
+- Prioritisation according to delay costs.
+- Stakeholder involvement: Buy a Feature.
+- Quantitative feedback on the product: Net Promoter System, Fit For Purpose.
+- Organisation of product ownership in scaled developments (several teams involved)
 ### :seedling: Things, I want to try out and/or learn
 
-- [ ] go to the near-by lake with my SUP
-- [ ] read Co-Active Coaching by Henry and Karen Kimsey-House
+- [ ] Data Engineering/Data Analytics on Coursera 
+- [x] go to the near-by lake with my SUP
+- [x] read Co-Active Coaching by Henry and Karen Kimsey-House 🤔
 - [x] read "Power to the Public" written by Tara D. McGuiness and Hanna Schank
 - [x] read "How to avoid a Climate Disaster" written by Bill Gates
 - [x] read "Empowered", written by Marty Cagan and Chris Jones
