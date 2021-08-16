@@ -30,7 +30,8 @@ which had the following items on the agenda:
 - Organisation of product ownership in scaled developments (several teams involved)
 ### :seedling: Things, I want to try out and/or learn
 
-- [ ] Data Engineering/Data Analytics on Coursera 
+- [x] Python for Data Science, AI & Development[Coursera certificate](https://www.coursera.org/account/accomplishments/certificate/XVESMD4B382T) 
+- [x] Introduction to Data Engineering [Coursera certificate](https://www.coursera.org/account/accomplishments/certificate/ZYLPSN9UJE52) 
 - [x] go to the near-by lake with my SUP
 - [x] read Co-Active Coaching by Henry and Karen Kimsey-House 🤔
 - [x] read "Power to the Public" written by Tara D. McGuiness and Hanna Schank
