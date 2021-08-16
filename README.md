@@ -30,13 +30,13 @@ which had the following items on the agenda:
 - Organisation of product ownership in scaled developments (several teams involved)
 ### :seedling: Things, I want to try out and/or learn
 
-- [x] Python for Data Science, AI & Development[Coursera certificate](https://www.coursera.org/account/accomplishments/certificate/XVESMD4B382T) 
-- [x] Introduction to Data Engineering [Coursera certificate](https://www.coursera.org/account/accomplishments/certificate/ZYLPSN9UJE52) 
-- [x] go to the near-by lake with my SUP
-- [x] read Co-Active Coaching by Henry and Karen Kimsey-House 🤔
-- [x] read "Power to the Public" written by Tara D. McGuiness and Hanna Schank
-- [x] read "How to avoid a Climate Disaster" written by Bill Gates
-- [x] read "Empowered", written by Marty Cagan and Chris Jones
+- [x] Aug'21: Python for Data Science, AI & Development[Coursera certificate](https://www.coursera.org/account/accomplishments/certificate/XVESMD4B382T) 
+- [x] Aug'21: Introduction to Data Engineering [Coursera certificate](https://www.coursera.org/account/accomplishments/certificate/ZYLPSN9UJE52) 
+- [x] Jul/Aug'21: go to the near-by lake with my SUP
+- [x] Jul'21: read Co-Active Coaching by Henry and Karen Kimsey-House 🤔 👎
+- [x] Jun'21: read "Power to the Public" written by Tara D. McGuiness and Hanna Schank 👍
+- [x] May'21: read "How to avoid a Climate Disaster" written by Bill Gates 👍
+- [x] May'21: read "Empowered", written by Marty Cagan and Chris Jones 😑
 - [x] learn still more about DevOps and how to apply it most efficiently for our org.unit
 - [ ] learn to play the harmonica
 - [x] :mountain_bicyclist: ride the next trail....
