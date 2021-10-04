@@ -30,7 +30,7 @@ which had the following items on the agenda:
 - Organisation of product ownership in scaled developments (several teams involved)
 ### :seedling: Things, I want to try out and/or learn
 
-- [x] Aug'21: Python for Data Science, AI & Development[Coursera certificate](https://github.com/mweil372/mweil372/blob/master/Coursera%20XVESMD4B382T.pdf) 
+- [x] Aug'21: Python for Data Science, AI & Development [Coursera certificate](https://github.com/mweil372/mweil372/blob/master/Coursera%20XVESMD4B382T.pdf) 
 - [x] Aug'21: Introduction to Data Engineering [Coursera certificate](https://github.com/mweil372/mweil372/blob/master/Coursera%20ZYLPSN9UJE52) 
 - [x] Jul/Aug'21: go to the near-by lake with my SUP
 - [x] Jul'21: read Co-Active Coaching by Henry and Karen Kimsey-House 🤔 👎
