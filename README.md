@@ -41,6 +41,9 @@ which had the following items on the agenda:
 - [ ] learn to play the harmonica
 - [x] :mountain_bicyclist: ride the next trail....
 
+### My accomplishments
+A list of certificates (of attendance), trainings, online courses...
+[My accomplishments](https://github.com/mweil372/mweil372)
 
 ### 📫 How to reach me: ...
 [:email:](@weil.mario@gmail.com)  
