@@ -3,14 +3,14 @@
 ## Hi!
 
 Welcome to my profile.  
-Let me introduce myself: I currently work for Lufthansa Systems GmbH & Co. KG.  
-I'm employed as a ~~Product Owner~~ [Business Owner](https://www.scaledagileframework.com/business-owners/).  
+Let me introduce myself: I currently work for KM.ON in Frankfurt.  
+I'm employed as a Project Manager.  
 
 All my professional dedication and passion go to our product,
 which is a price-winning Inflight-Entertainment System. 
 You can use it onboard several airlines' aircraft. (and maybe you already have used it)
 
-I work from home for one year now and what I heavily miss is the personal contact
+I mostly work from home for around 2 years now and what I heavily miss is the personal contact
 with my colleagues and the information exchange, e.g. in the coffee corner 
 (which very often leads to new insights, additional ideas etc.)
 
