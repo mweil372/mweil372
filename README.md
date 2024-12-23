@@ -7,12 +7,12 @@ Let me introduce myself: I currently work for KM.ON in Frankfurt.
 I'm employed as ~~a Project Manager~~ the Enablement Center Lead.  
 
 All my professional dedication and passion goes to our product.  
-It is a digital ecosystem for the Karl Mayer, a textile machinery manufacturer and it serves. 
+It is a digital ecosystem for the Karl Mayer, a textile machinery manufacturer and it serves 
 as the basis for all the Industry 4.0 services that enable the SMART TEXTILE MACHINE.   
 
-I mostly work from home for more than 2 years now and what I heavily miss is the personal contact  
-with my colleagues and the information exchange, e.g. in the coffee corner 
-(which very often leads to new insights, additional ideas etc.)
+I'm a tech enthusiast passionate about digital transformation, IoT, and innovative problem-solving. Over the years, I've built and led teams, tackled complex projects, and explored how technology can drive better business outcomes. Whether tinkering with APIs, designing cloud solutions, or strategizing for the next big thing, I love rolling up my sleeves and diving in.
+
+🌍 When I'm not geeking out over the latest tech trends, you'll find me exploring the outdoors or brainstorming ideas for my next project. Let's connect and build something awesome together! 🚀
 
 <!--
 ### More about me 
